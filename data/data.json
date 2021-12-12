@@ -1,0 +1,143 @@
+{
+    "items": [{
+            "type": "outer",
+            "gender": "female",
+            "image": "../img/outer-f.jpg"
+        },
+        {
+            "type": "outer",
+            "gender": "female",
+            "image": "../img/outer-f2.jpg"
+        },
+        {
+            "type": "outer",
+            "gender": "female",
+            "image": "../img/outer-f3.jpg"
+        },
+        {
+            "type": "outer",
+            "gender": "female",
+            "image": "../img/outer-f4.jpg"
+        },
+        {
+            "type": "outer",
+            "gender": "female",
+            "image": "../img/outer-f5.jpg"
+        },
+        {
+            "type": "outer",
+            "gender": "female",
+            "image": "../img/outer-f6.jpg"
+        },
+        {
+            "type": "outer",
+            "gender": "female",
+            "image": "../img/outer-f7.jpg"
+        },
+        {
+            "type": "outer",
+            "gender": "male",
+            "image": "../img/outer-m1.jpg"
+        },
+        {
+            "type": "outer",
+            "gender": "male",
+            "image": "../img/outer-m2.jpg"
+        },
+        {
+            "type": "outer",
+            "gender": "male",
+            "image": "../img/outer-m3.jpg"
+        },
+        {
+            "type": "outer",
+            "gender": "male",
+            "image": "../img/outer-m4.jpg"
+        },
+        {
+            "type": "outer",
+            "gender": "male",
+            "image": "../img/outer-m5.jpg"
+        },
+        {
+            "type": "outer",
+            "gender": "male",
+            "image": "../img/outer-m6.jpg"
+        },
+        {
+            "type": "outer",
+            "gender": "male",
+            "image": "../img/outer-m7.jpg"
+        },
+        {
+            "type": "top",
+            "gender": "male",
+            "image": "../img/top-m1.jpg"
+        },
+        {
+            "type": "top",
+            "gender": "male",
+            "image": "../img/top-m2.jpg"
+        },
+        {
+            "type": "top",
+            "gender": "male",
+            "image": "../img/top-m3.jpg"
+        },
+        {
+            "type": "top",
+            "gender": "male",
+            "image": "../img/top-m4.jpg"
+        },
+        {
+            "type": "top",
+            "gender": "male",
+            "image": "../img/top-m5.jpg"
+        },
+        {
+            "type": "top",
+            "gender": "male",
+            "image": "../img/top-m6.jpg"
+        },
+        {
+            "type": "top",
+            "gender": "male",
+            "image": "../img/top-m7.jpg"
+        },
+        {
+            "type": "top",
+            "gender": "female",
+            "image": "../img/top-f1.jpg"
+        },
+        {
+            "type": "top",
+            "gender": "female",
+            "image": "../img/top-f2.jpg"
+        },
+        {
+            "type": "top",
+            "gender": "female",
+            "image": "../img/top-f3.jpg"
+        },
+        {
+            "type": "top",
+            "gender": "female",
+            "image": "../img/top-f4.jpg"
+        },
+        {
+            "type": "top",
+            "gender": "female",
+            "image": "../img/top-f5.jpg"
+        },
+        {
+            "type": "top",
+            "gender": "female",
+            "image": "../img/top-f6.jpg"
+        },
+        {
+            "type": "top",
+            "gender": "female",
+            "image": "../img/top-f7.jpg"
+        }
+    ]
+}
